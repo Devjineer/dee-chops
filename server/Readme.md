@@ -1,4 +1,4 @@
-# Catering Order Web App – Backend
+# Dee Chops Web App – Server
 
 Backend service for a catering web application that allows customers to place food and custom orders, and allows the caterer to manage those orders.
 
