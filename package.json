@@ -1,0 +1,11 @@
+{
+  "private": "true",
+  "scripts": {
+    "dev:customer": "yarn workspace customer-web dev",
+    "build:customer": "yarn workspace customer-web build"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
